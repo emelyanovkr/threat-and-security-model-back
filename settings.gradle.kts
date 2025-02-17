@@ -10,4 +10,4 @@ pluginManagement {
         id(quarkusPluginId) version quarkusPluginVersion
     }
 }
-rootProject.name = "threat-and-sec-backend"
+rootProject.name = "threat-and-sec-back"
